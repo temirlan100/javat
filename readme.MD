@@ -30,10 +30,8 @@ and many exciting opportunities
 - "Hello World!" - Your first Java programme
 
 ##### Basic language elements
-- Data types (primitives and reference types)
-- Operators
-- Constants with `final`
-- Code blocks and variable scope
+- [Data types and Operators](JavaCore/SecondLesson.MD)
+- Constants with `final` and code blocks and variable scope
 
 ##### Conditional operators
 - `if-else` operator
