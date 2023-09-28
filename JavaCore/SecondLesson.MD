@@ -99,6 +99,8 @@ The temperature in Celsius is 37.00°C.
 </pre>
 </details>
 
+---
+
 <details>
   <summary>Task 2</summary>
 <pre style="background-color: #333; color: lime; padding: 10px; border-radius: 5px;">
@@ -116,6 +118,8 @@ Variance: 2
 </pre>
 </details>
 
+---
+
 <details>
   <summary>Task 3</summary>
 <pre style="background-color: #333; color: lime; padding: 10px; border-radius: 5px;">
@@ -132,6 +136,8 @@ Full Name: John Doe
 </pre>
 </details>
 
+---
+
 <details>
   <summary>Task 4</summary>
 <pre style="background-color: #333; color: lime; padding: 10px; border-radius: 5px;">
@@ -146,6 +152,8 @@ Java Rocks!
 Length: 11
 </pre>
 </details>
+
+---
 
 <details>
   <summary>Task 5</summary>
@@ -164,8 +172,10 @@ The remainder is 1.
 </pre>
 </details>
 
+---
+
 <details>
-  <summary>Task 5</summary>
+  <summary>Task 6</summary>
 <pre style="background-color: #333; color: lime; padding: 10px; border-radius: 5px;">
 
 # **Switching Bit Positions**

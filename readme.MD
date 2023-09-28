@@ -31,7 +31,7 @@ and many exciting opportunities
 
 ##### Basic language elements
 - [Data types and Operators](JavaCore/SecondLesson.MD)
-- Constants with `final` and code blocks and variable scope
+- [Constants with `final` and code blocks and variable scope](JavaCore/ThirdLesson.MD)
 
 ##### Conditional operators
 - `if-else` operator
@@ -91,6 +91,10 @@ and many exciting opportunities
 ##### Basics of working with date and time
 - Classes `LocalDate`, `LocalTime`, and `LocalDateTime`.
 - Working with time zones
+
+##### Java Core module final projects
+- Project #1 **WIP**
+- Project #2 **WIP**
 
 ## **Java App + DB**
 - Application development and database work.
