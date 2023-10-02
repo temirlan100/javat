@@ -34,7 +34,7 @@ and many exciting opportunities
 - [Constants with `final` and code blocks and variable scope](JavaCore/ThirdLesson.MD)
 
 ##### Conditional operators
-- `if-else` operator
+- [`if-else` operator](JavaCore/FourthLesson.MD)
 - `switch` operator
 
 ##### Loops
