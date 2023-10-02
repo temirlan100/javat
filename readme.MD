@@ -38,20 +38,20 @@ and many exciting opportunities
 - `switch` operator
 
 ##### Loops
+- Cycle `do-while`
 - Cycle `while`
 - Loop `for`
-- Cycle `do-while`
 
 ##### Arrays
 - Basics of working with arrays
 - Multidimensional Arrays
 
 ##### Collections
-- `ArrayList`
-- `HashSet`
-- `HashMap`
-- `TreeSet`
-- `TreeMap`
+- class `ArrayList`
+- class `HashSet`
+- class `HashMap`
+- class `TreeSet`
+- class `TreeMap`
 
 ##### Reading files
 - Basic file operations
