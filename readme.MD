@@ -38,7 +38,7 @@ and many exciting opportunities
 - [`switch` operator](JavaCore/FifthLesson.MD)
 
 ##### Loops
-- Cycle `do-while`
+- [Cycle `do-while`](JavaCore/SixthLesson.MD)
 - Cycle `while`
 - Loop `for`
 
