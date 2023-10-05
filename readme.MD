@@ -66,7 +66,7 @@ and many exciting opportunities
 - Polymorphism
 - Encapsulation
 - Constructors
-- `this` and `uper`
+- `this` and `super`
 - Static class elements
 - Internal classes
 - Lambda expressions
