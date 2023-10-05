@@ -35,7 +35,7 @@ and many exciting opportunities
 
 ##### Conditional operators
 - [`if-else` operator](JavaCore/FourthLesson.MD)
-- `switch` operator
+- [`switch` operator](JavaCore/FifthLesson.MD)
 
 ##### Loops
 - Cycle `do-while`
