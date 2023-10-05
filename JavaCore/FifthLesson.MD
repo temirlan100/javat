@@ -125,6 +125,7 @@ and more readable alternative to a chain of `if-else` statements, especially whe
 <details>
   <summary>Task 1</summary>
 <pre style="background-color: #333; color: lime; padding: 10px; border-radius: 5px;">
+
 # **Temperature Converter**
 ## **Description:**
 Write a Java program that converts temperatures between Fahrenheit and Celsius.
