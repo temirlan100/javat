@@ -39,7 +39,7 @@ and many exciting opportunities
 
 ##### Loops
 - [Cycle `do-while`](JavaCore/Lesson_6.MD)
-- Cycle `while`
+- [Cycle `while`](JavaCore/Lesson_7.MD)
 - Loop `for`
 
 ##### Arrays
