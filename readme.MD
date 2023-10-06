@@ -23,22 +23,22 @@ and many exciting opportunities
 
 ## Course Structure
 ## **Java Core**
-##### [Introduction to Java](JavaCore/FirstLesson.MD)
+##### [Introduction to Java](JavaCore/Lesson_1.MD)
 - History and features of the Java language
 - Installing the JDK (Java Development Kit)
 - Installing IntelliJ IDEA
 - "Hello World!" - Your first Java programme
 
 ##### Basic language elements
-- [Data types and Operators](JavaCore/SecondLesson.MD)
-- [Constants with `final` and code blocks and variable scope](JavaCore/ThirdLesson.MD)
+- [Data types and Operators](JavaCore/Lesson_2.MD)
+- [Constants with `final` and code blocks and variable scope](JavaCore/Lesson_3.MD)
 
 ##### Conditional operators
-- [`if-else` operator](JavaCore/FourthLesson.MD)
-- [`switch` operator](JavaCore/FifthLesson.MD)
+- [`if-else` operator](JavaCore/Lesson_4.MD)
+- [`switch` operator](JavaCore/Lesson_5.MD)
 
 ##### Loops
-- [Cycle `do-while`](JavaCore/SixthLesson.MD)
+- [Cycle `do-while`](JavaCore/Lesson_6.MD)
 - Cycle `while`
 - Loop `for`
 
