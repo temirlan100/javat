@@ -40,7 +40,7 @@ and many exciting opportunities
 ##### Loops
 - [Cycle `do-while`](JavaCore/Lesson_6.MD)
 - [Cycle `while`](JavaCore/Lesson_7.MD)
-- Loop `for`
+- [Loop `for`](JavaCore/Lesson_8.MD)
 
 ##### Arrays
 - Basics of working with arrays
