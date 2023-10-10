@@ -52,14 +52,14 @@ You can use loops to iterate over the array:
 
 *Using for loop:*
 ```java
-for(int i = 0; i < numbers.length; i++) {
+for (int i = 0; i < numbers.length; i++) {
     System.out.println(numbers[i]);
 }
 ```
 
 *Using enhanced for loop (also called for-each loop):*
 ```java
-for(int num : numbers) {
+for (int num : numbers) {
     System.out.println(num);
 }
 ```
@@ -84,23 +84,23 @@ for(int num : numbers) {
 **Objective:** Create an array of integers, fill it with random numbers, calculate their sum and average, then print the results.
 ```java
 public class IntArrayExample {
-    public static void main(String[] args) {
-        int[] numbers = new int[5];  // Declare an int array of size 5
-        int sum = 0;
+  public static void main(String[] args) {
+    int[] numbers = new int[5];  // Declare an int array of size 5
+    int sum = 0;
 
-        // Fill the array with random numbers between 1 and 100
-        for(int i = 0; i < numbers.length; i++) {
-            numbers[i] = (int) (Math.random() * 100 + 1);
-            System.out.println("Element at index " + i + ": " + numbers[i]);
+    // Fill the array with random numbers between 1 and 100
+    for (int i = 0; i < numbers.length; i++) {
+      numbers[i] = (int) (Math.random() * 100 + 1);
+      System.out.println("Element at index " + i + ": " + numbers[i]);
 
-            sum += numbers[i];  // Calculate the sum
-        }
-
-        double average = (double) sum / numbers.length;  // Calculate the average
-
-        System.out.println("Sum: " + sum);
-        System.out.println("Average: " + average);
+      sum += numbers[i];  // Calculate the sum
     }
+
+    double average = (double) sum / numbers.length;  // Calculate the average
+
+    System.out.println("Sum: " + sum);
+    System.out.println("Average: " + average);
+  }
 }
 ```
 
@@ -115,10 +115,10 @@ public class StringArrayExample {
         int countNamesStartingWithA = 0;
 
         System.out.println("Names in reverse order:");
-        for(int i = names.length - 1; i >= 0; i--) {
+        for (int i = names.length - 1; i >= 0; i--) {
             System.out.println(names[i]);
 
-            if(names[i].startsWith("A")) {  // Check if the name starts with 'A'
+            if (names[i].startsWith("A")) {  // Check if the name starts with 'A'
                 countNamesStartingWithA++;
             }
         }
