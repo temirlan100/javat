@@ -43,7 +43,7 @@ and many exciting opportunities
 - [Loop `for`](JavaCore/Lesson_8.MD)
 
 ##### Arrays
-- Basics of working with arrays
+- [Basics of working with arrays and the foreach loop](JavaCore/Lesson_9.MD)
 - Multidimensional Arrays
 
 ##### Collections
@@ -80,9 +80,8 @@ and many exciting opportunities
 - Creating your own exceptions
 
 ##### Basics of working with strings
-- Class `String`
+- Class `String` and methods of working with strings
 - Class `StringBuilder` and `StringBuffer`
-- Methods of working with strings
 
 ##### JavaDoc Basics
 - How to create JavaDoc comments
