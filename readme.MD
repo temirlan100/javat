@@ -44,7 +44,7 @@ and many exciting opportunities
 
 ##### Arrays
 - [Basics of working with arrays and the foreach loop](JavaCore/Lesson_9.MD)
-- Multidimensional Arrays
+- [Multidimensional Arrays](JavaCore/Lesson_10.MD)
 
 ##### Collections
 - class `ArrayList`
