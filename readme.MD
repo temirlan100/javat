@@ -47,7 +47,7 @@ and many exciting opportunities
 - [Multidimensional Arrays](JavaCore/Lesson_10.MD)
 
 ##### Collections
-- class `ArrayList`
+- [class `ArrayList`](JavaCore/Lesson_11.MD)
 - class `HashSet`
 - class `HashMap`
 - class `TreeSet`
