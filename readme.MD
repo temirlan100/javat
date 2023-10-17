@@ -48,7 +48,7 @@ and many exciting opportunities
 
 ##### Collections
 - [class `ArrayList`](JavaCore/Lesson_11.MD)
-- class `HashSet`
+- [class `HashSet`](JavaCore/Lesson_12.MD)
 - class `HashMap`
 - class `TreeSet`
 - class `TreeMap`
