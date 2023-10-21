@@ -50,7 +50,7 @@ and many exciting opportunities
 - [class `ArrayList`](JavaCore/Lesson_11.MD)
 - [class `HashSet`](JavaCore/Lesson_12.MD)
 - [class `HashMap`](JavaCore/Lesson_13.MD)
-- class `TreeSet`
+- [class `TreeSet`](JavaCore/Lesson_14.MD)
 - class `TreeMap`
 
 ##### Reading files
