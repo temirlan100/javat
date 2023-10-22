@@ -199,3 +199,37 @@ Hints:
 ## **General hints for Students:**  
 1. Use the `Scanner` class for input.
 2. Use `System.out.printf()` to control the precision of the output to two decimal places.
+### **Example:**
+
+```java
+import java.util.Scanner;
+
+public class CircleCalculator {
+    public static void main(String[] args) {
+        // Create a Scanner object to get user input
+        Scanner scanner = new Scanner(System.in);
+        
+        // Prompt the user to enter the radius of the circle
+        System.out.print("Enter the radius of the circle: ");
+        double radius = scanner.nextDouble();
+        
+        // Calculate the area and circumference
+        double area = Math.PI * radius * radius;
+        double circumference = 2 * Math.PI * radius;
+        
+        // Output the results with precision of two decimal places
+        System.out.printf("The area of the circle with radius %.2f is %.2f\n", radius, area);
+        System.out.printf("The circumference of the circle with radius %.2f is %.2f\n", radius, circumference);
+        
+        // Close the scanner to prevent resource leaks
+        scanner.close();
+    }
+}
+```
+
+### **Explanation:**
+
+1. We imported the `Scanner` class for input.
+2. We used the `System.out.printf()` method to display the results with a precision of two decimal places.
+3. In the `printf` statements, the `%f` format specifier is used for floating-point numbers, and the `.2` before the `f` sets the precision to two decimal places.
+4. The program prompts the user to enter the radius of the circle, calculates the area and circumference based on the given radius, and then outputs the results with two decimal places.
