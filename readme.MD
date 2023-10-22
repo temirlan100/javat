@@ -51,7 +51,7 @@ and many exciting opportunities
 - [class `HashSet`](JavaCore/Lesson_12.MD)
 - [class `HashMap`](JavaCore/Lesson_13.MD)
 - [class `TreeSet`](JavaCore/Lesson_14.MD)
-- class `TreeMap`
+- [class `TreeMap`](JavaCore/Lesson_15.MD)
 
 ##### Reading files
 - Basic file operations
