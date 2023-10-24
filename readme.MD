@@ -29,6 +29,9 @@ and many exciting opportunities
 - Installing IntelliJ IDEA
 - "Hello World!" - Your first Java programme
 
+##### Reading inputs
+- [Scanning the input](JavaCore/Lesson_16.MD)
+
 ##### Basic language elements
 - [Data types and Operators](JavaCore/Lesson_2.MD)
 - [Constants with `final` and code blocks and variable scope](JavaCore/Lesson_3.MD)
