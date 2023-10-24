@@ -23,38 +23,36 @@ and many exciting opportunities
 
 ## Course Structure
 ## **Java Core**
-##### [Introduction to Java](JavaCore/Lesson_1.MD)
+##### [Introduction to Java](JavaCore/lesson_hello_world.MD)
 - History and features of the Java language
 - Installing the JDK (Java Development Kit)
 - Installing IntelliJ IDEA
 - "Hello World!" - Your first Java programme
 
-##### Reading inputs
-- [Scanning the input](JavaCore/Lesson_16.MD)
-
 ##### Basic language elements
-- [Data types and Operators](JavaCore/Lesson_2.MD)
-- [Constants with `final` and code blocks and variable scope](JavaCore/Lesson_3.MD)
+- [Scanning the input](JavaCore/lesson_input_scanning.MD)
+- [Data types and Operators](JavaCore/lesson_data_types_operators.MD)
+- [Constants with `final` and code blocks and variable scope](JavaCore/lesson_finak_blocks.MD)
 
 ##### Conditional operators
-- [`if-else` operator](JavaCore/Lesson_4.MD)
-- [`switch` operator](JavaCore/Lesson_5.MD)
+- [`if-else` operator](JavaCore/lesson_if_else.MD)
+- [`switch` operator](JavaCore/lesson_switch.MD)
 
 ##### Loops
-- [Cycle `do-while`](JavaCore/Lesson_6.MD)
-- [Cycle `while`](JavaCore/Lesson_7.MD)
-- [Loop `for`](JavaCore/Lesson_8.MD)
+- [Cycle `do-while`](JavaCore/lesson_do_while.MD)
+- [Cycle `while`](JavaCore/lesson_while.MD)
+- [Loop `for`](JavaCore/lesson_for.MD)
 
 ##### Arrays
-- [Basics of working with arrays and the foreach loop](JavaCore/Lesson_9.MD)
-- [Multidimensional Arrays](JavaCore/Lesson_10.MD)
+- [Basics of working with arrays and the foreach loop](JavaCore/lesson_array.MD)
+- [Multidimensional Arrays](JavaCore/lesson_matrix.MD)
 
 ##### Collections
-- [class `ArrayList`](JavaCore/Lesson_11.MD)
-- [class `HashSet`](JavaCore/Lesson_12.MD)
-- [class `HashMap`](JavaCore/Lesson_13.MD)
-- [class `TreeSet`](JavaCore/Lesson_14.MD)
-- [class `TreeMap`](JavaCore/Lesson_15.MD)
+- [class `ArrayList`](JavaCore/lesson_list_arraylist.MD)
+- [class `HashSet`](JavaCore/lesson_set_hashset.MD)
+- [class `HashMap`](JavaCore/lesson_map_hashmap.MD)
+- [class `TreeSet`](JavaCore/lesson_treeset.MD)
+- [class `TreeMap`](JavaCore/lesson_treemap.MD)
 
 ##### Reading files
 - Basic file operations
