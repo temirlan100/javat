@@ -10,31 +10,32 @@ Not all programs require standard input, but it's essential for many programming
 
 This approach makes it easy to test code with different input formats, which is why we use it frequently.
 
-## Using the Scanner Class
+## 1. Using the Scanner Class
 
 The Scanner class simplifies reading data from standard input. It can handle various data types, such as strings and numbers. Let's explore its usage:
 
-1. **Import the Scanner**: Start by adding this import statement at the top of your source code file:
+1.1. **Import the Scanner**: Start by adding this import statement at the top of your source code file:
 ```java
-   import java.util.Scanner;
+import java.util.Scanner;
 ```
-2. **Create a Scanner Object**: After the import, create a Scanner object for standard input:
+1.2. **Create a Scanner Object**: After the import, create a Scanner object for standard input:
 ```java
-   Scanner scanner = new Scanner(System.in);
+Scanner scanner = new Scanner(System.in);
 ```
+
 This line initializes the Scanner, allowing you to use its methods. You'll learn more about creating objects in other topics. **System.in** indicates that the program will read text from the standard input.
 
-## Reading Strings
+## 2. Reading Strings
 You can read strings using two Scanner methods. If your input is an integer or a single word, use the **next()** method. For example, this code reads a user's name and greets them:
 ```java
-    String name = scanner.next();
-    System.out.println("Hello, " + name + "!");
+String name = scanner.next();
+System.out.println("Hello, " + name + "!");
 ```
 For instance, if the user's name is James, the output will be "Hello, James!"
 
 If the input is an integer, like 123, the program will output it as a string:
 ```java
-    Hello, 123!
+Hello, 123!
 ```
 If the user enters a compound name like "Erich Maria," the program only captures the first word:
 ```java
@@ -46,7 +47,7 @@ Hello, Erich Maria!
 ```
 Note that **next()** reads only one word, excluding spaces, while **nextLine()** includes all encountered spaces.
 
-## Handling Multiline Input
+## 3. Handling Multiline Input
 Reading multiline input requires attention to the cursor's position and the behavior of reading methods. Here's an example:
 ```java
 |This is a simple
