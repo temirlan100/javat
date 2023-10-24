@@ -75,6 +75,47 @@ Operators are special symbols that perform specific operations on one, two, or t
 int result = (10 > 5) ? 1 : 0; // result will be 1
 ```
 
+
+## 3. Casting in Java
+In Java, casting is the process of converting one data type to another. There are two types of casting:
+1. **Implicit Casting** (Widening Conversion)
+2. **Explicit Casting** (Narrowing Conversion)
+
+### 3.1 Implicit Casting
+Java automatically promotes one data type to another without any explicit request from the user. This usually occurs when converting from a smaller type to a larger type.
+
+**Example**:
+```java
+int myInt = 9;
+double myDouble = myInt; // Automatic casting: int to double
+```
+
+**Order of Implicit Casting**:
+```
+byte -> short -> char -> int -> long -> float -> double
+```
+
+### 3.2 Explicit Casting
+When you're trying to assign a value from a larger type to a smaller type, you must perform an explicit cast. Be cautious, as explicit casting might cause data loss if the value doesn't fit within the target type's range.
+
+**Syntax**:
+```java
+(targetType) value
+```
+
+**Example**:
+```java
+double myDouble = 9.78;
+int myInt = (int) myDouble; // Explicit casting: double to int
+```
+
+### Considerations with Casting
+- **Data Loss**: Narrowing conversion (explicit casting) can lead to data loss. For instance, when you cast a `double` to an `int`, you lose the decimal part.
+- **Rounding**: Java does not round numbers when you explicitly cast. It truncates the decimal part. For example, casting 9.99 to an `int` gives you 9, not 10.
+- **OutOfRange**: Casting can lead to out-of-range values. Casting a large `int` value into a `byte` might result in unexpected values due to byte wrapping.
+- **Class Casting**: Apart from primitive types, you can cast objects in Java. However, this involves rules of polymorphism and requires understanding of the class hierarchy. Attempting to cast unrelated classes will result in a runtime exception.
+
+
 ### Recommended Resources
 - [Introduction to Java Primitives](https://www.baeldung.com/java-primitives#:~:text=2.-,Primitive%20Data%20Types,objects%20and%20represent%20raw%20values.)
 - [Java data types](https://www.geeksforgeeks.org/data-types-in-java/)
