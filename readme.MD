@@ -56,10 +56,6 @@ and many exciting opportunities
 ##### Reading files
 - Basic file operations
 
-##### Streams
-- Basics of Streams in Java
-- Working with data streams
-
 ##### OOP Basics
 - Introduction to OOP (Objects, Classes)
 - Inheritance
@@ -78,6 +74,10 @@ and many exciting opportunities
 - `try-catch` block
 - `finally` block
 - Creating your own exceptions
+
+##### Streams
+- Basics of Streams in Java
+- Working with data streams
 
 ##### Basics of working with strings
 - Class `String` and methods of working with strings
