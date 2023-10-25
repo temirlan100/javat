@@ -55,7 +55,7 @@ and many exciting opportunities
 - [class `TreeMap`](JavaCore/lesson_treemap.MD)
 
 ##### Reading files
-- Basic file operations
+- [Basic file operations](JavaCore/lesson_file_io.MD)
 
 ##### OOP Basics
 - Introduction to OOP (Objects, Classes)
