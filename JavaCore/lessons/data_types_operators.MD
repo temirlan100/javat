@@ -6,6 +6,43 @@ In Java, data types determine the kind of values a variable can hold. They are c
 two main groups: **Primitive Data Types** and **Reference Data Types**.
 ![ROADMAP.png](..%2FImg%2Ftypes.png))
 
+### 1.0. What is variable?
+Variable is like a container for storing some data. If you want to reuse some data several times it makes sense to put it to a variable.
+
+In order to create a variable you should:
+1. Tell Java what data type you are planning to store there (e.g. text, numbers or smth else)
+2. Give it a name (some words reserved by java).
+
+Example:
+Let's declare a variable ("declare a variable" means to create a new variable).
+```java
+int clientAge; 
+```
+Here, age is a variable, that may contain any value of int type. 
+Now, it's empty, because we only created it, but not assigned anything here. 
+By default, it stores 0, because it has int type.
+Let's initialize a variable, (in other words, let's assign some value to this variable).
+
+Example:
+```java
+int clientAge;
+age = 25;
+```
+Now our variable is storing number 25.
+In Java, we can even do declaring and initialization in 1 step to make our code shorter:
+Example: let's create a variable and put there a value
+```java
+int clientAge = 25; 
+```
+So, when you see such line of code, then 2 things happen here: 
+- a variable  ```clientAge``` was created that has ```int``` type
+- value 25 was placed into ```clientAge``` variable
+
+**Hint**: by the way, have you already noticed that var name is ```clientAge```? (not a ```client_age``` or ```CLIENTage```)
+That's a tradition (or more officially - convention) to call all Java variables in camelCase. It imrpoves code readability.
+(The first word is always written with a small letter, and all other words are written together, without spaces, and each new word begins with a capital letter.)
+Examples: ```clientName, referFriendProgram, partnerClientName``` and so on.
+
 ### 1.1. Primitive Data Types
 These are the most basic data types available within the Java language. They include:
 - **byte**: 8-bit signed two's complement integer (range: -128 to 127)
@@ -24,6 +61,25 @@ char initial = 'A';
 boolean isStudent = true;
 ```
 
+Q: Should I know range by heart?
+A: No, you shouldn't
+Q: why do I need all those ranges then?
+A: Main reasons:
+- memory (some types consume more memory than others and in huge, complex programs that really matters)
+- range limitations (each type has LIMITED range):
+Example: you created a variable ```int number```
+Let's imagine that you're planning to store there number of days in year. 
+**Hint**: then it's better to give it meaningful name, e.g. ```int daysNumberInYear;```
+Year usually have 365-366 days in one year and this number fits in variable 
+
+But what if you have other Java program with variable called ```int amountMoneyInBank``` where you keep total money amount of some bank?
+It may be a really huge number, even bigger then upper limit of int type (which is 2147483647). In that case bank will lost the money. It's a catastrophe!!
+Solution: use data type with higher upper limit, e.g. long, where upper limit is 9,223,372,036,854,775,807
+
+Q: Which type is better to use?
+A: There is no word 'better' in programming. Each type is good in some particular situation. 
+Regarding integer numbers: for small values use ```int```, but if you expect really huge numbers then using ```long``` is a good option.
+
 ### 1.2. Reference Data Types
 Reference data types are used to store references to objects. The default value of 
 a reference variable is `null`. Some examples are:
@@ -37,6 +93,10 @@ Java provides built-in reference types like `String` which is actually a class, 
 String name = "John";
 String[] names = {"John", "Doe", "Jane"};
 ```
+
+### 1.3 Difference between primitives and reference data types
+- TO DO: add what's the difference between primitives and reference with example (e.g. reference type can be NULL)
+- TO DO: explain what does it mean "pass by reference/pass by value" and give examples with both types (primitive and reference)
 
 ## 2. Operators
 Operators are special symbols that perform specific operations on one, two, or three operands and then return a result.

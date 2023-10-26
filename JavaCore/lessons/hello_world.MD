@@ -1,3 +1,10 @@
+## Which PC and Operating System to choose for Java programming?
+- Q: I want to become a programmer. Should I buy MacBook Pro?
+- A: Not really, you can use any PC. But it's recommended to have at least 8GB RAM [see here](https://www.jetbrains.com/help/idea/installation-guide.html#requirements)
+
+- Q: Which OS should I have? Should I install Linux?
+- A: Linux is a good choice, and it's very popular, BUT all modern OS (Windows, MacOS, Linux) are also compatible with IntelliJ Idea (program where you will be writing your code).
+
 ## Linux operating system
 Linux is an open source and freely distributed operating system based on the Unix kernel.
 The system is popular in the field of servers, embedded systems and many other areas.
