@@ -23,42 +23,42 @@ and many exciting opportunities
 
 ## Course Structure
 ## **Java Core**
-##### [Introduction to Java](JavaCore/lesson_hello_world.MD)
+##### [Introduction to Java](JavaCore/lessons/hello_world.MD)
 - History and features of the Java language
 - Installing the JDK (Java Development Kit)
 - Installing IntelliJ IDEA
 - "Hello World!" - Your first Java programme
 
 ##### Basic language elements
-- [Scanning the input](JavaCore/lesson_input_scanning.MD)
-- [Data types and Operators](JavaCore/lesson_data_types_operators.MD)
-- [Constants with `final` and code blocks and variable scope](JavaCore/lesson_finak_blocks.MD)
+- [Scanning the input](JavaCore/lessons/linput_scanning.MD)
+- [Data types and Operators](JavaCore/lessons/data_types_operators.MD)
+- [Constants with `final` and code blocks and variable scope](JavaCore/lessons/finak_blocks.MD)
 
 ##### Conditional operators
-- [`if-else` operator](JavaCore/lesson_if_else.MD)
-- [`switch` operator](JavaCore/lesson_switch.MD)
+- [`if-else` operator](JavaCore/lessons/if_else.MD)
+- [`switch` operator](JavaCore/lessons/switch.MD)
 
 ##### Loops
-- [Cycle `do-while`](JavaCore/lesson_do_while.MD)
-- [Cycle `while`](JavaCore/lesson_while.MD)
-- [Loop `for`](JavaCore/lesson_for.MD)
+- [Cycle `do-while`](JavaCore/lessons/do_while.MD)
+- [Cycle `while`](JavaCore/lessons/while.MD)
+- [Loop `for`](JavaCore/lessons/for_loop.MD)
 
 ##### Arrays
-- [Basics of working with arrays and the foreach loop](JavaCore/lesson_array.MD)
-- [Multidimensional Arrays](JavaCore/lesson_matrix.MD)
+- [Basics of working with arrays and the foreach loop](JavaCore/lessons/array.MD)
+- [Multidimensional Arrays](JavaCore/lessons/matrix.MD)
 
 ##### Collections
-- [Class `ArrayList`](JavaCore/lesson_list_arraylist.MD)
-- [Class `HashSet`](JavaCore/lesson_set_hashset.MD)
-- [Class `HashMap`](JavaCore/lesson_map_hashmap.MD)
-- [Class `TreeSet`](JavaCore/lesson_treeset.MD)
-- [Class `TreeMap`](JavaCore/lesson_treemap.MD)
+- [Class `ArrayList`](JavaCore/lessons/list_arraylist.MD)
+- [Class `HashSet`](JavaCore/lessons/set_hashset.MD)
+- [Class `HashMap`](JavaCore/lessons/map_hashmap.MD)
+- [Class `TreeSet`](JavaCore/lessons/treeset.MD)
+- [Class `TreeMap`](JavaCore/lessons/treemap.MD)
 
 ##### Reading files
-- [Basic file operations](JavaCore/lesson_file_io.MD)
+- [Basic file operations](JavaCore/lessons/file_io.MD)
 
 ##### OOP Basics
-- [Introduction to OOP (Objects, Classes)](JavaCore/intro_oop.MD)
+- [Introduction to OOP (Objects, Classes)](JavaCore/lessons/intro_oop.MD)
 - `public`, `private` and `default` fields
 - Inheritance
 - Polymorphism
