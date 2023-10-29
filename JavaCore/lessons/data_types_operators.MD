@@ -94,10 +94,6 @@ String name = "John";
 String[] names = {"John", "Doe", "Jane"};
 ```
 
-### 1.3 Difference between primitives and reference data types
-- TO DO: add what's the difference between primitives and reference with example (e.g. reference type can be NULL)
-- TO DO: explain what does it mean "pass by reference/pass by value" and give examples with both types (primitive and reference)
-
 ## 2. Operators
 Operators are special symbols that perform specific operations on one, two, or three operands and then return a result.
 
