@@ -48,17 +48,18 @@ and many exciting opportunities
 - [Multidimensional Arrays](JavaCore/lesson_matrix.MD)
 
 ##### Collections
-- [class `ArrayList`](JavaCore/lesson_list_arraylist.MD)
-- [class `HashSet`](JavaCore/lesson_set_hashset.MD)
-- [class `HashMap`](JavaCore/lesson_map_hashmap.MD)
-- [class `TreeSet`](JavaCore/lesson_treeset.MD)
-- [class `TreeMap`](JavaCore/lesson_treemap.MD)
+- [Class `ArrayList`](JavaCore/lesson_list_arraylist.MD)
+- [Class `HashSet`](JavaCore/lesson_set_hashset.MD)
+- [Class `HashMap`](JavaCore/lesson_map_hashmap.MD)
+- [Class `TreeSet`](JavaCore/lesson_treeset.MD)
+- [Class `TreeMap`](JavaCore/lesson_treemap.MD)
 
 ##### Reading files
 - [Basic file operations](JavaCore/lesson_file_io.MD)
 
 ##### OOP Basics
-- Introduction to OOP (Objects, Classes)
+- [Introduction to OOP (Objects, Classes)](JavaCore/intro_oop.MD)
+- `public`, `private` and `default` fields
 - Inheritance
 - Polymorphism
 - Encapsulation
