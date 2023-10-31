@@ -71,9 +71,7 @@ and many exciting opportunities
 - What is Enum class? How to use it and when to use it
 
 ##### Exception Handling
-- What are exceptions?
-- `try-catch` block
-- `finally` block
+- `try-catch` and `finally` blocks
 - Creating your own exceptions
 
 ##### Streams
