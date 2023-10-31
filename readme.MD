@@ -59,11 +59,10 @@ and many exciting opportunities
 
 ##### OOP Basics
 - [Introduction to OOP (Objects, Classes)](JavaCore/lessons/intro_oop.MD)
-- `public`, `private` and `default` fields
+- [Access modifiers](JavaCore/lessons/access_modifiers.MD)
 - Inheritance
 - Polymorphism
 - Encapsulation
-- Constructors
 - `this` and `super`
 - Static class elements
 - Internal classes
