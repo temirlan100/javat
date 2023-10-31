@@ -80,17 +80,9 @@ and many exciting opportunities
 - Basics of Streams in Java
 - Working with data streams
 
-##### Basics of working with strings
-- Class `String` and methods of working with strings
-- Class `StringBuilder` and `StringBuffer`
-
-##### JavaDoc Basics
+##### JavaDoc
 - How to create JavaDoc comments
 - How to generate documentation
-
-##### Basics of working with date and time
-- Classes `LocalDate`, `LocalTime`, and `LocalDateTime`.
-- Working with time zones
 
 ##### Java Core module final projects
 - Project #1 **WIP**
