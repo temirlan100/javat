@@ -60,14 +60,13 @@ and many exciting opportunities
 ##### OOP Basics
 - [Introduction to OOP (Objects, Classes)](JavaCore/lessons/intro_oop.MD)
 - [Access modifiers](JavaCore/lessons/access_modifiers.MD)
-- Inheritance
+- [Inheritance](JavaCore/lessons/inheritance.MD)
+- Abstract class and Interfaces
 - Polymorphism
 - Encapsulation
-- `this` and `super`
 - Static class elements
 - Internal classes
 - Lambda expressions
-- Interfaces
 - What is Enum class? How to use it and when to use it
 
 ##### Exception Handling
