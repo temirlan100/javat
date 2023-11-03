@@ -61,7 +61,7 @@ and many exciting opportunities
 - [Introduction to OOP (Objects, Classes)](JavaCore/lessons/intro_oop.MD)
 - [Access modifiers](JavaCore/lessons/access_modifiers.MD)
 - [Inheritance](JavaCore/lessons/inheritance.MD)
-- Abstract class and Interfaces
+- [Abstract class and Interfaces](JavaCore/lessons/abstract_class_interface.MD)
 - Polymorphism
 - Encapsulation
 - Static class elements
