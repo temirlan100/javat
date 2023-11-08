@@ -62,7 +62,7 @@ and many exciting opportunities
 - [Access modifiers](JavaCore/lessons/access_modifiers.MD)
 - [Inheritance](JavaCore/lessons/inheritance.MD)
 - [Abstract class and Interfaces](JavaCore/lessons/abstract_class_interface.MD)
-- Polymorphism
+- [Polymorphism](JavaCore/lessons/polymorphism.MD)
 - Encapsulation
 - Static class elements
 - Internal classes
