@@ -63,7 +63,7 @@ and many exciting opportunities
 - [Inheritance](JavaCore/lessons/inheritance.MD)
 - [Abstract class and Interfaces](JavaCore/lessons/abstract_class_interface.MD)
 - [Polymorphism](JavaCore/lessons/polymorphism.MD)
-- Encapsulation
+- [Encapsulation](JavaCore/lessons/encapsulation.MD)
 - Static class elements
 - Internal classes
 - Lambda expressions
