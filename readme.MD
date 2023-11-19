@@ -64,7 +64,7 @@ and many exciting opportunities
 - [Abstract class and Interfaces](JavaCore/lessons/abstract_class_interface.MD)
 - [Polymorphism](JavaCore/lessons/polymorphism.MD)
 - [Encapsulation](JavaCore/lessons/encapsulation.MD)
-- Static class elements
+- [Static class elements](JavaCore/lessons/static.MD)
 - Internal classes
 - Lambda expressions
 - What is Enum class? How to use it and when to use it
