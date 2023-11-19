@@ -233,5 +233,3 @@ Value of the outer class's variable.
 </pre>
 </details>
 
----
-
