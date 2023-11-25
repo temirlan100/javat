@@ -66,7 +66,7 @@ and many exciting opportunities
 - [Encapsulation](JavaCore/lessons/encapsulation.MD)
 - [Static class elements](JavaCore/lessons/static.MD)
 - [Internal classes](JavaCore/lessons/internal_class.MD)
-- Lambda expressions
+- [Lambda expressions](JavaCore/lessons/lambda.MD)
 - What is Enum class? How to use it and when to use it
 
 ##### Exception Handling
