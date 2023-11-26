@@ -67,7 +67,7 @@ and many exciting opportunities
 - [Static class elements](JavaCore/lessons/static.MD)
 - [Internal classes](JavaCore/lessons/internal_class.MD)
 - [Lambda expressions](JavaCore/lessons/lambda.MD)
-- What is Enum class? How to use it and when to use it
+- [What is Enum class? How to use it and when to use it](JavaCore/lessons/enum.MD)
 
 ##### Exception Handling
 - `try-catch` and `finally` blocks
