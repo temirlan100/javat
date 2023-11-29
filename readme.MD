@@ -74,16 +74,13 @@ and many exciting opportunities
 - Creating your own exceptions
 
 ##### Streams
-- Basics of Streams in Java
-- Working with data streams
+- Streams in Java
 
 ##### JavaDoc
-- How to create JavaDoc comments
-- How to generate documentation
+- About JavaDoc 
 
 ##### Java Core module final projects
 - Project #1 **WIP**
-- Project #2 **WIP**
 
 ## **Java App + DB**
 - Application development and database work.
