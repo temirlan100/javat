@@ -70,7 +70,7 @@ and many exciting opportunities
 - [What is Enum class? How to use it and when to use it](JavaCore/lessons/enum.MD)
 
 ##### Exception Handling
-- `try-catch` and `finally` blocks
+- [`try-catch` and `finally` blocks](JavaCore/lessons/try_catch_finally.MD)
 - Creating your own exceptions
 
 ##### Streams
