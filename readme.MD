@@ -71,7 +71,7 @@ and many exciting opportunities
 
 ##### Exception Handling
 - [`try-catch` and `finally` blocks](JavaCore/lessons/try_catch_finally.MD)
-- Creating your own exceptions
+- [Creating your own exceptions](JavaCore/lessons/own_exception.MD)
 
 ##### Streams
 - Streams in Java
