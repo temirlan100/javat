@@ -74,7 +74,7 @@ and many exciting opportunities
 - [Creating your own exceptions](JavaCore/lessons/own_exception.MD)
 
 ##### Streams
-- Streams in Java
+- [Streams in Java](JavaCore/lessons/streams.MD)
 
 ##### JavaDoc
 - About JavaDoc 
