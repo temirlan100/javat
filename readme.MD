@@ -77,7 +77,7 @@ and many exciting opportunities
 - [Streams in Java](JavaCore/lessons/streams.MD)
 
 ##### JavaDoc
-- About JavaDoc 
+- [About JavaDoc](JavaCore/lessons/javadoc.MD)
 
 ##### Java Core module final projects
 - Project #1 **WIP**
