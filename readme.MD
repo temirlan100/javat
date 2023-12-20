@@ -80,7 +80,7 @@ and many exciting opportunities
 - [About JavaDoc](JavaCore/lessons/javadoc.MD)
 
 ##### Java Core module final projects
-- Project #1 **WIP**
+- [ATM Simulator](JavaCore/lessons/atm_project.MD)
 
 ## **Java App + DB**
 - Application development and database work.
