@@ -97,5 +97,5 @@ In addition to learning the basics of programming, you will have the opportunity
 - Leading graduates to an JO, on full completion of the course.
 
 ## Community
-We have a [Telegram group](https://t.me/+p49eOfpbwso2N2My) where you can ask questions, 
+We have a [Telegram group](https://t.me/javatgroup) where you can ask questions, 
 discuss course material, and meet other enthusiasts.
