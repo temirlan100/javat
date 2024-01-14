@@ -82,9 +82,43 @@ and many exciting opportunities
 ##### Java Core module final projects
 - [ATM Simulator](JavaCore/lessons/atm_project.MD)
 
+
 ## **Java App + DB**
-- Application development and database work.
-- **WIP**.
+##### Introduction to Databases
+- Understanding Databases: Types and Importance
+- Introduction to SQL Databases and setting Up a SQL Database Environment (SQLite)
+- Basics of Database Design and Normalization
+- Task A: Set up a local SQL database environment using SQLite
+- Task B: Design a simple database schema for application
+
+##### SQL Essentials
+- Key SQL Statements: SELECT, INSERT, UPDATE, DELETE
+- Understanding Tables, Keys, and Relationships
+- Advanced SQL Concepts: Joins, Subqueries, Views, and Indexes
+- Stored Procedures and Triggers
+- Task A: Create tables based on the schema designed in previous task, and populate them with sample data
+- Task B: Write SQL queries to retrieve specific data, update records, and perform a simple join operation
+
+##### Java and Database Connectivity
+- Introduction to JDBC (Java Database Connectivity)
+- Establishing Connections to a SQL Database from Java
+- Executing SQL Queries through Java
+- Managing Database Transactions in Java
+- Task A: Establish a JDBC connection to the database created in SQLite
+- Task B: Write a Java program to execute basic SQL queries (SELECT, INSERT, UPDATE, DELETE) using JDBC
+
+##### Advanced Database Operations in Java
+- Design Patterns for Database Access in Java (e.g., DAO Pattern)
+- Implementing CRUD Operations in Java Applications
+- Advanced JDBC Techniques and Optimizations
+- Handling Large Data Sets and Performance Tuning
+- Task A: Implement a CRUD (Create, Read, Update, Delete) functionality in a Java application
+- Task B: Enhance the application with transaction management and error handling
+
+##### Java App + DB module final projects
+- project 1
+- project 2
+
 
 ## **Spring**
 - Basics of working with the popular Spring framework.
