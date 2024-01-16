@@ -85,19 +85,19 @@ and many exciting opportunities
 
 ## **Java App + DB**
 ##### Introduction to Databases
-- Understanding Databases: Types and Importance
-- Introduction to SQL Databases and setting Up a SQL Database Environment (SQLite)
-- Basics of Database Design and Normalization
-- Task A: Set up a local SQL database environment using SQLite
-- Task B: Design a simple database schema for application
+- [Understanding Databases: Types and Importance](db/lessons/database_intro.MD)
+- [Introduction to SQL Databases and setting Up a SQL Database Environment (SQLite)](db/lessons/sqllite_env.MD)
+- [Basics of Database Design and Normalization](db/lessons/db_normalization.MD)
+- [Task A: Set up a local SQL database environment using SQLite](db/tasks/sqlite_install.MD)
 
 ##### SQL Essentials
 - Key SQL Statements: SELECT, INSERT, UPDATE, DELETE
 - Understanding Tables, Keys, and Relationships
 - Advanced SQL Concepts: Joins, Subqueries, Views, and Indexes
 - Stored Procedures and Triggers
-- Task A: Create tables based on the schema designed in previous task, and populate them with sample data
-- Task B: Write SQL queries to retrieve specific data, update records, and perform a simple join operation
+- Task A: Design a simple database schema for application
+- Task B: Create tables based on the schema designed in previous task, and populate them with sample data
+- Task C: Write SQL queries to retrieve specific data, update records, and perform a simple join operation
 
 ##### Java and Database Connectivity
 - Introduction to JDBC (Java Database Connectivity)
