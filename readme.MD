@@ -91,9 +91,9 @@ and many exciting opportunities
 - [Task A: Set up a local SQL database environment using SQLite](db/tasks/sqlite_install.MD)
 
 ##### SQL Essentials
-- Key SQL Statements: SELECT, INSERT, UPDATE, DELETE
+- [Key SQL Statements: SELECT, INSERT, UPDATE, DELETE](db/lessons/siud_sql.MD)
 - Understanding Tables, Keys, and Relationships
-- Advanced SQL Concepts: Joins, Subqueries, Views, and Indexes
+- Advanced SQL Concepts: Joins, Conditions, Subqueries, Views, and Indexes
 - Stored Procedures and Triggers
 - Task A: Design a simple database schema for application
 - Task B: Create tables based on the schema designed in previous task, and populate them with sample data
