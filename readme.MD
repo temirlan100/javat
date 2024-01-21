@@ -92,7 +92,7 @@ and many exciting opportunities
 
 ##### SQL Essentials
 - [Key SQL Statements: SELECT, INSERT, UPDATE, DELETE](db/lessons/siud_sql.MD)
-- Understanding Tables, Keys, and Relationships
+- [Understanding Tables, Keys, and Relationships](db/lessons/table_keys.MD)
 - Advanced SQL Concepts: Joins, Conditions, Subqueries, Views, and Indexes
 - Stored Procedures and Triggers
 - Task A: Design a simple database schema for application
