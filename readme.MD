@@ -95,9 +95,7 @@ and many exciting opportunities
 - [Understanding Tables, Keys, and Relationships](db/lessons/table_keys.MD)
 - [Advanced SQL Concepts: Joins, Conditions, Subqueries, Views, and Indexes](db/lessons/joins_conditions.MD)
 - [Stored Procedures and Triggers](db/lessons/procedures_triggers.MD)
-- Task A: Design a simple database schema for application
-- Task B: Create tables based on the schema designed in previous task, and populate them with sample data
-- Task C: Write SQL queries to retrieve specific data, update records, and perform a simple join operation
+- [Task: Healthcare Database Management: A Practical SQL Learning Experience](db/tasks/sql_essentials.MD)
 
 ##### Java and Database Connectivity
 - Introduction to JDBC (Java Database Connectivity)
