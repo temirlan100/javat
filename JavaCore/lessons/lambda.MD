@@ -318,7 +318,7 @@ Transformed List: ["APPLE", "BANANA", "CHERRY"]
 ---
 
 <details>
-  <summary>Task 9: Stream Operations on a Product List</summary>
+  <summary>Task 8: Stream Operations on a Product List</summary>
 <pre style="background-color: #333; color: lime; padding: 10px; border-radius: 5px;">
 
 # Stream Operations on a Product List
@@ -352,7 +352,7 @@ Perform various operations on a list of products using lambda expressions and st
 ---
 
 <details>
-  <summary>Task 10: Lambda-Based User Interface Interactions</summary>
+  <summary>Task 9: Lambda-Based User Interface Interactions</summary>
 <pre style="background-color: #333; color: lime; padding: 10px; border-radius: 5px;">
 
 # Lambda-Based User Interface Interactions
@@ -386,7 +386,7 @@ Implement various user interface interactions using lambda expressions in a hypo
 ---
 
 <details>
-  <summary>Task 11: Functional Interface Implementation</summary>
+  <summary>Task 10: Functional Interface Implementation</summary>
 <pre style="background-color: #333; color: lime; padding: 10px; border-radius: 5px;">
 
 # Functional Interface Implementation
