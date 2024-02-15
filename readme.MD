@@ -98,12 +98,10 @@ and many exciting opportunities
 - [Task: Healthcare Database Management: A Practical SQL Learning Experience](db/tasks/sql_essentials.MD)
 
 ##### Java and Database Connectivity
-- Introduction to JDBC (Java Database Connectivity)
-- Establishing Connections to a SQL Database from Java
-- Executing SQL Queries through Java
-- Managing Database Transactions in Java
-- Task A: Establish a JDBC connection to the database created in SQLite
-- Task B: Write a Java program to execute basic SQL queries (SELECT, INSERT, UPDATE, DELETE) using JDBC
+- [Introduction to JDBC (Java Database Connectivity)](db/lessons/jdbc.MD)
+- [Executing SQL Queries through Java](db/lessons/sql_jdbc.MD)
+- [Managing Database Transactions in Java](db/lessons/transactions.MD)
+- [Task: Establish a JDBC connection to the database created in SQLite with CRUD](db/tasks/jdbc_connection.MD)
 
 ##### Advanced Database Operations in Java
 - Design Patterns for Database Access in Java (e.g., DAO Pattern)
