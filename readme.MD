@@ -104,12 +104,10 @@ and many exciting opportunities
 - [Task: Establish a JDBC connection to the database created in SQLite with CRUD](db/tasks/jdbc_connection.MD)
 
 ##### Advanced Database Operations in Java
-- Design Patterns for Database Access in Java (e.g., DAO Pattern)
-- Implementing CRUD Operations in Java Applications
-- Advanced JDBC Techniques and Optimizations
-- Handling Large Data Sets and Performance Tuning
-- Task A: Implement a CRUD (Create, Read, Update, Delete) functionality in a Java application
-- Task B: Enhance the application with transaction management and error handling
+- [Design Patterns for Database Access in Java (e.g., DAO Pattern)](db/lessons/view_service_dao.MD)
+- [Implementing CRUD Operations in Java Applications](db/lessons/crud.MD)
+- [Advanced JDBC Techniques and Optimizations](db/lessons/advance_jdbc_intro.MD)
+- [Task: Kindergarten Management System](db/tasks/advance_database_operations.MD)
 
 ##### Java App + DB module final projects
 - project 1
