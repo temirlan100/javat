@@ -415,7 +415,7 @@ Create a method that receives a string and returns the first non-repeated charac
 "repeater"
 
 #### _Sample Output 2:_
-'r'
+'p'
 
 </pre>
 </details>
