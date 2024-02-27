@@ -110,8 +110,8 @@ and many exciting opportunities
 - [Task: Kindergarten Management System](db/tasks/advance_database_operations.MD)
 
 ##### Java App + DB module final projects
-- project 1
-- project 2
+- [LMS - Logistics Management System](db/projects/lms_project.MD)
+- [Automated Teller Machine (ATM) Management System](db/projects/atm_project.MD)
 
 
 ## **Spring**
