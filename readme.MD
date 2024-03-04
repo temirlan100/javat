@@ -32,7 +32,7 @@ and many exciting opportunities
 ##### Basic language elements
 - [Scanning the input](JavaCore/lessons/linput_scanning.MD)
 - [Data types and Operators](JavaCore/lessons/data_types_operators.MD)
-- [Constants with `final` and code blocks and variable scope](JavaCore/lessons/final_blocks)
+- [Constants with `final` and code blocks and variable scope](JavaCore/lessons/final_blocks.MD)
 
 ##### Conditional operators
 - [`if-else` operator](JavaCore/lessons/if_else.MD)
