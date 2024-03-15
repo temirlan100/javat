@@ -115,8 +115,18 @@ and many exciting opportunities
 
 
 ## **Spring**
-- Basics of working with the popular Spring framework.
-- **WIP**.
+- Module 1: Introduction to Spring Framework
+- Module 2: Spring Core Concepts
+- Module 3: Introduction to Spring Boot
+- Module 4: Building RESTFull Web Services with Spring Boot
+- Module 5: Data Access with Spring Data
+- Module 6: Securing Spring Applications with Spring Security
+- Module 7: Testing Spring Applications
+
+## **Spring module final projects**
+- project 1
+- project 2
+- project 3
 
 ## Additional Opportunities
 In addition to learning the basics of programming, you will have the opportunity to get:
