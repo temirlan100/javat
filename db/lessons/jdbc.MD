@@ -37,7 +37,7 @@ public class JdbcExample {
     public static void main(String[] args) {
         try {
             // Step 1: Load the JDBC driver
-            Class.forName("com.mysql.jdbc.Driver");
+            Class.forName("org.sqlite.JDBC");
             
             // Step 2: Establish a connection
             Connection con = DriverManager.getConnection("jdbc:sqlite:path_to_your_database.db");
