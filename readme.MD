@@ -111,17 +111,18 @@ and many exciting opportunities
 
 ##### Java App + DB module final projects
 - [LMS - Logistics Management System](db/projects/lms_project.MD)
-- [Automated Teller Machine (ATM) Management System](db/projects/atm_project.MD)
+- [Automated Teller Machine (ATM) Management System](db/projects/atm_project.MD)x1
 
 
 ## **Spring**
-- Module 1: Introduction to Spring Framework
+- [Module 1: Introduction to Spring Framework](spring/lessons/module_1.MD)
 - Module 2: Spring Core Concepts
 - Module 3: Introduction to Spring Boot
 - Module 4: Building RESTFull Web Services with Spring Boot
 - Module 5: Data Access with Spring Data
-- Module 6: Securing Spring Applications with Spring Security
-- Module 7: Testing Spring Applications
+- Module 6: Spring Batch for Batch Processing
+- Module 7: Securing Spring Applications with Spring Security
+- Module 8: Testing Spring Applications
 
 ## **Spring module final projects**
 - project 1
