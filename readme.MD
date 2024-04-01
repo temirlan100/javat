@@ -116,7 +116,7 @@ and many exciting opportunities
 
 ## **Spring**
 - [Module 1: Introduction to Spring Framework](spring/lessons/module_1.MD)
-- Module 2: Spring Core Concepts
+- [Module 2: Spring Core Concepts](spring/lessons/module_2.MD)
 - Module 3: Introduction to Spring Boot
 - Module 4: Building RESTFull Web Services with Spring Boot
 - Module 5: Data Access with Spring Data
