@@ -355,7 +355,7 @@ Implement a method that accepts a List of strings and returns a HashMap. The key
 ["cat", "dog", "elephant", "lion", "tiger"]
 
 #### _Sample Output 1:_
-{3=["cat", "dog"], 5=["tiger", "lion"], 8=["elephant"]}
+{3=["cat", "dog"], 4=["lion"], 5=["tiger"], 8=["elephant"]}
 
 #### _Sample Input 2:_
 ["apple", "banana", "kiwi", "grape"]
