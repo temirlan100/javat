@@ -361,7 +361,7 @@ Implement a method that accepts a List of strings and returns a HashMap. The key
 ["apple", "banana", "kiwi", "grape"]
 
 #### _Sample Output 2:_
-{5=["apple"], 6=["banana", "grape"], 4=["kiwi"]}
+{5=["apple", "grape"], 6=["banana"], 4=["kiwi"]}
 
 </pre>
 </details>
