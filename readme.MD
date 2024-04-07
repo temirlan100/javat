@@ -111,7 +111,7 @@ and many exciting opportunities
 
 ##### Java App + DB module final projects
 - [LMS - Logistics Management System](db/projects/lms_project.MD)
-- [Automated Teller Machine (ATM) Management System](db/projects/atm_project.MD)x1
+- [Automated Teller Machine (ATM) Management System](db/projects/atm_project.MD)
 
 
 ## **Spring**
