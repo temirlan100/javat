@@ -120,9 +120,8 @@ and many exciting opportunities
 - [Module 3: Introduction to Spring Boot](spring/lessons/module_3.MD)
 - [Module 4: Building RESTFull Web Services with Spring Boot](spring/lessons/module_4.MD)
 - [Module 5: Data Access with Spring Data](spring/lessons/module_5.MD)
-- Module 6: Spring Batch for Batch Processing
-- Module 7: Securing Spring Applications with Spring Security
-- Module 8: Testing Spring Applications
+- [Module 6: Securing Spring Applications with Spring Security](spring/lessons/module_6.MD)
+- Module 7: Testing Spring Applications
 
 ## **Spring module final projects**
 - project 1
