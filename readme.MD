@@ -121,7 +121,7 @@ and many exciting opportunities
 - [Module 4: Building RESTFull Web Services with Spring Boot](spring/lessons/module_4.MD)
 - [Module 5: Data Access with Spring Data](spring/lessons/module_5.MD)
 - [Module 6: Securing Spring Applications with Spring Security](spring/lessons/module_6.MD)
-- Module 7: Testing Spring Applications
+- [Module 7: Testing Spring Applications](spring/lessons/module_7.MD)
 
 ## **Spring module final projects**
 - project 1
