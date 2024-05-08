@@ -124,7 +124,7 @@ and many exciting opportunities
 - [Module 7: Testing Spring Applications](spring/lessons/module_7.MD)
 
 ## **Spring module final projects**
-- project 1
+- [Automated Teller Machine (ATM)](spring/projects/project_1.MD)
 - project 2
 - project 3
 
