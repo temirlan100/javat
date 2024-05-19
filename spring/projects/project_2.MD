@@ -1,4 +1,4 @@
-### Title: Telemedicine System
+### git Telemedicine System
 ### Description:
 The objective of this project is to develop a Telemedicine System using Java and Spring technologies. 
 The system will facilitate online consultations, manage patient health records, handle prescription management, 
