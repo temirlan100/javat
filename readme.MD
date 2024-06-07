@@ -126,7 +126,7 @@ and many exciting opportunities
 ## **Spring module final projects**
 - [Automated Teller Machine (ATM)](spring/projects/project_1.MD)
 - [Telemedicine System](spring/projects/project_2.MD)
-- project 3 In progress
+- [Advanced Financial Services Management System](spring/projects/project_3.MD)
 
 ## Additional Opportunities
 In addition to learning the basics of programming, you will have the opportunity to get:
