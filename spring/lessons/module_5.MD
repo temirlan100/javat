@@ -170,17 +170,6 @@ spring.jpa.database-platform=org.hibernate.dialect.SQLiteDialect
 spring.jpa.hibernate.ddl-auto=update
 ```
 
-3. **Configure the SQLite Database**:
-  - In the `src/main/resources` directory, create an `application.properties` file.
-  - Add the following properties to connect to the SQLite database:
-
-    ```properties
-    spring.datasource.url=jdbc:sqlite:books.db
-    spring.datasource.driver-class-name=org.sqlite.JDBC
-    spring.jpa.database-platform=org.hibernate.dialect.SQLiteDialect
-    spring.jpa.hibernate.ddl-auto=update
-    ```
-
 4. **Entity Creation**:
   - Define a Book entity.
 
